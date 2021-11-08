@@ -1,7 +1,7 @@
 Hi there! Eu sou o Arthur Magalhães.
 
-- 🔭 I’m currently working no Grupo BMS
-- 🌱 I’m currently learning C#
+- 🔭 Atualmente trabalho no Grupo BMS
+- 🌱 Atualmente estou aprendendo C#
 
 <div align="center">
   <a href="https://github.com/magalhaes13">
