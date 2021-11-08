@@ -1,6 +1,6 @@
 Olá! Eu sou o Arthur Magalhães.
 
-- 🔭 Atualmente trabalho no Grupo BMS
+- 🔭 Atualmente sou estagiário no Grupo BMS
 - 🌱 Atualmente estou aprendendo C#
 
 <div align="center">
