@@ -21,3 +21,11 @@ Olá! Eu sou o Arthur Magalhães.
   </div>
   
   ![Snake animation](https://github.com/magalhaes13/magalhaes13/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center"> 
+  Total de visitas no meu perfil 👤 <br> 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/magalhaes13/count.svg" />
+ </p>
+</p>
