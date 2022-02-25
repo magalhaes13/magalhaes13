@@ -1,7 +1,7 @@
 Olá! Eu sou o Arthur Magalhães.
 
-- 🔭 Atualmente sou estagiário no Grupo BMS
-- 🌱 Atualmente estou aprendendo C#
+- 🔭 Atualmente sou programador no Grupo 
+- 🌱 Atualmente estou aprendendo C# e JavaScript
 
 <div align="center">
   <a href="https://github.com/magalhaes13">
