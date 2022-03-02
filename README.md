@@ -1,7 +1,7 @@
 Olá! Eu sou o Arthur Magalhães.
 
 - 🔭 Atualmente sou programador no Grupo 
-- 🌱 Atualmente estou mexendo com C#, JavaScript e NODEJS
+- 🌱 Atualmente estou mexendo com C#, JavaScript e Node.js
 
 <div align="center">
   <a href="https://github.com/magalhaes13">
