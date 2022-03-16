@@ -1,6 +1,6 @@
 Olá! Eu sou o Arthur Magalhães.
 
-- 🔭 Atualmente sou programador no Grupo 
+- 🔭 Atualmente sou programador no Grupo BMS
 - 🌱 Atualmente estou mexendo com C#, JavaScript e Node.js
 
 <div align="center">
