@@ -1,6 +1,5 @@
 Olá! Eu sou o Arthur Magalhães.
 
-- 🌱 Atualmente estou mexendo com C#, JavaScript e Node.js
 
 <div align="center">
   <a href="https://github.com/magalhaes13">
