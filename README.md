@@ -1,4 +1,4 @@
-Olá! Eu sou o Arthur Magalhães.
+<h1> Olá! Eu sou o Arthur Magalhães. </h1>
 
 
 <div align="center">
